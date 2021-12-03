@@ -1,0 +1,141 @@
+[{
+        "id": 1,
+        "nombre": "Trufas de chocolate",
+        "precio": 250,
+        "imagen": "../assets/img/postre1.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Cheesecake frutos rojos",
+        "precio": 390,
+        "imagen": "../assets/img/postre3.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Postre de banana con ganache de chocolate",
+        "precio": 200,
+        "imagen": "../assets/img/postre4.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Tiramisú",
+        "precio": 550,
+        "imagen": "../assets/img/postre5.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Cheesecake con gelatina de frambuesa",
+        "precio": 450,
+        "imagen": "../assets/img/postre6.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Torta de crema americana",
+        "precio": 370,
+        "imagen": "../assets/img/postre7.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": "Donas",
+        "precio": 400,
+        "imagen": "../assets/img/postre8.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Muffin de dulce de leche",
+        "precio": 300,
+        "imagen": "../assets/img/postre2.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 9,
+        "nombre": "Cuadrado frutal",
+        "precio": 550,
+        "imagen": "../assets/img/postre10.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 10,
+        "nombre": "Banana pancake",
+        "precio": 450,
+        "imagen": "../assets/img/postre11.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 11,
+        "nombre": "Mini bizcochuelo de chocolate",
+        "precio": 350,
+        "imagen": "../assets/img/slider.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 12,
+        "nombre": "Frutillas con crema",
+        "precio": 400,
+        "imagen": "../assets/img/postre13.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 13,
+        "nombre": "Macarrones dulces",
+        "precio": 370,
+        "imagen": "../assets/img/postre14.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 14,
+        "nombre": "Torta de vainilla y crema de frutos rojos",
+        "precio": 650,
+        "imagen": "../assets/img/postre15.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 15,
+        "nombre": "Muffin de chocolate",
+        "precio": 300,
+        "imagen": "../assets/img/postre17.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 16,
+        "nombre": "Rogel de chocolate",
+        "precio": 650,
+        "imagen": "../assets/img/postre17.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 17,
+        "nombre": "Muffins de avena",
+        "precio": 300,
+        "imagen": "../assets/img/postre18.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 18,
+        "nombre": "Shot de lemon pie",
+        "precio": 200,
+        "imagen": "../assets/img/postre19.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 19,
+        "nombre": "Brownie con chips de chocolate",
+        "precio": 550,
+        "imagen": "../assets/img/postre20.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 20,
+        "nombre": "Shot de mousse de chocolate",
+        "precio": 400,
+        "imagen": "../assets/img/postre21.jpg",
+        "cantidad": 1
+    }
+]

@@ -18,6 +18,11 @@
 }
 
 
+.tbody tr:nth-of-type(even){
+    background: #c3c3c3;
+}
+
+
 .banner{
     width: 100vw;
     height: 500px;
@@ -26,13 +31,8 @@
     background-size: cover;
     filter: brightness(50%);
 }
-.banner h3{
-    text-align: center;
-    color:white;
-    font-size: 120px;
-    font-family: 'Tangerine', cursive;
-    
-}
+
+
 
 .colorBg{
     background: #eae2b7;
@@ -73,16 +73,17 @@
 }
 .product__title{
     padding-top: 10px;
-    font-size: 40px;
-    font-family: 'Tangerine', cursive;
+    font-size: 18px;
+    font-family: 'Merriweather', serif;
     text-align: center;
+    
 }
 
 .product__price{
     color: black;
     font-weight: bold;
-    font-family: 'Tangerine', cursive;
-    font-size: 30px;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
 }
 
 .product__icon{
@@ -92,4 +93,26 @@
 button{
     border: none;
     background: none;
+}
+
+/* modal */
+
+.btn {
+    background: #eae2b7;
+    border: none;
+    
+}
+
+th, td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.tacho{
+    cursor: pointer;
+}
+
+
+.fas {
+    color: black;
 }
